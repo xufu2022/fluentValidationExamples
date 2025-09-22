@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentTests", "FluentTests\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluntLibs", "FluntLibs\FluntLibs.csproj", "{F0975F12-51E4-4C23-BA4B-92C4E400AF3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{FDC80163-D6F2-F9D4-F5CF-D009631008EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F0975F12-51E4-4C23-BA4B-92C4E400AF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0975F12-51E4-4C23-BA4B-92C4E400AF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0975F12-51E4-4C23-BA4B-92C4E400AF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC80163-D6F2-F9D4-F5CF-D009631008EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC80163-D6F2-F9D4-F5CF-D009631008EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC80163-D6F2-F9D4-F5CF-D009631008EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC80163-D6F2-F9D4-F5CF-D009631008EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
